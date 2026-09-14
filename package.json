@@ -1,11 +1,19 @@
 {
-  "name": "PLAYWRIGHTFUNDAMENTALS3x",
+  "name": "playwrightfundamentals3x",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PallishreeS26/PLAYWRIGHTFUNDAMENTALS3X.git"
+  },
   "keywords": [],
   "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PallishreeS26/PLAYWRIGHTFUNDAMENTALS3X/issues"
+  },
+  "homepage": "https://github.com/PallishreeS26/PLAYWRIGHTFUNDAMENTALS3X#readme",
   "devDependencies": {
     "@playwright/test": "^1.63.0",
     "@types/node": "^22.20.2"
